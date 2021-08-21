@@ -26,3 +26,7 @@ const fetch = ({ data }) => {
   );
 };
 export default fetch;
+
+/* 
+
+  */
